@@ -1,1 +1,1 @@
-//comment
+//This is JavaScript file
